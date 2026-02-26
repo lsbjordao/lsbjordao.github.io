@@ -1,13 +1,11 @@
 ---
-title: "TypeTaxonScript"
+title: "TypeTaxonScript: sugarifying and enhancing data structures in biological systematics and biodiversity research"
 date: "2024-03-14"
 categories: [TypeTaxonScript]
 image: "image.png"
 ---
 
 ![](image.png){width=50% fig-align="center"}
-
-# TypeTaxonScript: sugarifying and enhancing data structures in biological systematics and biodiversity research
 
 TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.
 

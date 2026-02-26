@@ -67,7 +67,7 @@
   <media:content url="https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/image.webp" medium="image" type="image/webp"/>
 </item>
 <item>
-  <title>TypeTaxonScript</title>
+  <title>TypeTaxonScript: sugarifying and enhancing data structures in biological systematics and biodiversity research</title>
   <link>https://lsbjordao.github.io/posts/TypeTaxonScript/</link>
   <description><![CDATA[ 
 
@@ -79,15 +79,12 @@
 <p><img src="https://lsbjordao.github.io/posts/TypeTaxonScript/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
-<section id="typetaxonscript-sugarifying-and-enhancing-data-structures-in-biological-systematics-and-biodiversity-research" class="level1">
-<h1>TypeTaxonScript: sugarifying and enhancing data structures in biological systematics and biodiversity research</h1>
 <p>TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.</p>
 <p><a href="https://doi.org/10.1093/biomethods/bpae017">https://doi.org/10.1093/biomethods/bpae017</a></p>
 <p>It is better read in PDF format, which can be downloaded from the link below.</p>
 <p><a href="https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf">https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf</a></p>
 
 
-</section>
 
  ]]></description>
   <category>TypeTaxonScript</category>
