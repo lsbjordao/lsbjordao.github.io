@@ -176,34 +176,6 @@
   <media:content url="https://lsbjordao.github.io/posts/Four-new-species/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Toward a Census of Mimosa (Leguminosae) in the Atlantic Domain, Southeastern Brazil.</title>
-  <link>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/image.jpg" class="img-fluid figure-img" style="width:30.0%"></p>
-<figcaption><em>Mimosa emaensis</em></figcaption>
-</figure>
-</div>
-<p>This study is a taxonomic treatment of <em>Mimosa</em> from the state of Rio de Janeiro, a significant region of the Atlantic Domain in southeastern Brazil. We recognize 36 species (38 taxa), corresponding to 31% of the Mimosa species listed for the domain.</p>
-<p><a href="https://doi.org/10.1600/036364418X696905">https://doi.org/10.1600/036364418X696905</a></p>
-
-
-
- ]]></description>
-  <category>mimosa</category>
-  <category>leguminosae</category>
-  <category>taxonomy</category>
-  <category>atlantic domain</category>
-  <guid>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/</guid>
-  <pubDate>Wed, 11 Aug 2021 03:00:00 GMT</pubDate>
-  <media:content url="https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Trichomes in Mimosa (Leguminosae): Towards a characterization and a terminology standardization</title>
   <link>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/</link>
   <description><![CDATA[ 
@@ -229,6 +201,34 @@
   <guid>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/</guid>
   <pubDate>Sun, 01 Nov 2020 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Toward a Census of Mimosa (Leguminosae) in the Atlantic Domain, Southeastern Brazil.</title>
+  <link>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/image.jpg" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption><em>Mimosa emaensis</em></figcaption>
+</figure>
+</div>
+<p>This study is a taxonomic treatment of <em>Mimosa</em> from the state of Rio de Janeiro, a significant region of the Atlantic Domain in southeastern Brazil. We recognize 36 species (38 taxa), corresponding to 31% of the Mimosa species listed for the domain.</p>
+<p><a href="https://doi.org/10.1600/036364418X696905">https://doi.org/10.1600/036364418X696905</a></p>
+
+
+
+ ]]></description>
+  <category>mimosa</category>
+  <category>leguminosae</category>
+  <category>taxonomy</category>
+  <category>atlantic domain</category>
+  <guid>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/</guid>
+  <pubDate>Thu, 01 Mar 2018 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>A new species of Mimosa (Leguminosae) endemic to the Brazilian Cerrado</title>
