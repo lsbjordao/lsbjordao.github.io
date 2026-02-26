@@ -1,0 +1,12 @@
+---
+title: "New Species of *Mimosa* (Leguminosae) from Brazil"
+date: "2021-08-11"
+categories: [mimosa, leguminosae, taxonomy, cerrado]
+image: "image.jpg"
+---
+
+![*Mimosa emaensis*](image.jpg){width=50% fig-align="center"}
+
+Four new species are described from the Brazil (Cerrado and Caatinga): *Mimosa afranioi*, *M. emaensis*, *M. robsonii* and *M. sevilhae*.
+
+[https://doi.org/10.1600/036364421X16231782047271](https://doi.org/10.1600/036364421X16231782047271)
