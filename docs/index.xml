@@ -40,6 +40,33 @@
   <media:content url="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Advances in systematics of Mimosa (Fabaceae): phylogeny and biogeography of the Petiolovariabilis clade</title>
+  <link>https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/image.webp" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>This study presents a comprehensive analysis of the phylogeny and biogeography of the <em>Petiolovariabilis</em> clade within the genus <em>Mimosa</em> (Fabaceae). The authors used molecular data to reconstruct the evolutionary history of this group and to infer its biogeographic patterns.</p>
+<p><a href="https://doi.org/10.1093/sysbio/syaa096">https://doi.org/10.1093/sysbio/syaa096</a></p>
+
+
+
+ ]]></description>
+  <category>phylogeny</category>
+  <category>biogeography</category>
+  <category>mimosa</category>
+  <category>leguminosae</category>
+  <guid>https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/</guid>
+  <pubDate>Tue, 07 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/image.webp" medium="image" type="image/webp"/>
+</item>
+<item>
   <title>TypeTaxonScript</title>
   <link>https://lsbjordao.github.io/posts/TypeTaxonScript/</link>
   <description><![CDATA[ 
@@ -52,12 +79,15 @@
 <p><img src="https://lsbjordao.github.io/posts/TypeTaxonScript/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
+<section id="typetaxonscript-sugarifying-and-enhancing-data-structures-in-biological-systematics-and-biodiversity-research" class="level1">
+<h1>TypeTaxonScript: sugarifying and enhancing data structures in biological systematics and biodiversity research</h1>
 <p>TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.</p>
 <p><a href="https://doi.org/10.1093/biomethods/bpae017">https://doi.org/10.1093/biomethods/bpae017</a></p>
 <p>It is better read in PDF format, which can be downloaded from the link below.</p>
 <p><a href="https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf">https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf</a></p>
 
 
+</section>
 
  ]]></description>
   <category>TypeTaxonScript</category>
