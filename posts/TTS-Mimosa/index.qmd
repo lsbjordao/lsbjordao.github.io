@@ -1,0 +1,11 @@
+---
+title: "TTS-Mimosa"
+author: "LSBJ"
+date: "2026-02-25"
+categories: [mimosa, taxonomy, leguminosae, TypeTaxonScript]
+image: "image.jpg"
+---
+
+The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.
+
+[https://lsbjordao.github.io/TTS-Mimosa-App/](https://lsbjordao.github.io/TTS-Mimosa-App/)

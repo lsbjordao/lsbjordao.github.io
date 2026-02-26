@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: person-vcard
+      text: Curriculum Lattes
+      href: https://lattes.cnpq.br/6445788694639027
+    - icon: github
+      text: Github
+      href: https://github.com/lsbjordao/
+
+---
+
+TI Analyst at CNCFlora/JBRJ. PhD and Msc in Botany. Specialist in *Mimosa* (Leguminosae, Caesalpinioideae). I am interested in plant systematics, evolution, and conservation. I also interested in data science, biodiversity informatics and data management.

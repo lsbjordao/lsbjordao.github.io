@@ -1,0 +1,11 @@
+---
+title: "MapBiomas e a avaliação do risco de extinção da flora brasileira"
+author: "LSBJ"
+date: "2022-08-01"
+categories: [flora, mapbiomas, conservation, iucn]
+image: "image.jpg"
+---
+
+![MapBiomas](image.jpg)
+
+[https://www.youtube.com/watch?v=Te4FLR2k-bo](https://www.youtube.com/watch?v=Te4FLR2k-bo)

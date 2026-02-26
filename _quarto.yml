@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://lsbjordao.github.io/
+  title: "Lucas S.B. Jordão"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/lsbjordao/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Lucas S.B. Jordão</title>
+<link>https://lsbjordao.github.io/</link>
+<atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Wed, 25 Feb 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>TTS-Mimosa</title>
+  <dc:creator>LSBJ </dc:creator>
+  <link>https://lsbjordao.github.io/posts/TTS-Mimosa/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.</p>
+<p><a href="https://lsbjordao.github.io/TTS-Mimosa-App/">https://lsbjordao.github.io/TTS-Mimosa-App/</a></p>
+
+
+
+ ]]></description>
+  <category>mimosa</category>
+  <category>taxonomy</category>
+  <category>leguminosae</category>
+  <category>TypeTaxonScript</category>
+  <guid>https://lsbjordao.github.io/posts/TTS-Mimosa/</guid>
+  <pubDate>Wed, 25 Feb 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>MapBiomas e a avaliação do risco de extinção da flora brasileira</title>
+  <dc:creator>LSBJ </dc:creator>
+  <link>https://lsbjordao.github.io/posts/Premio-MapBiomas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Premio-MapBiomas/image.jpg" class="img-fluid figure-img"></p>
+<figcaption>MapBiomas</figcaption>
+</figure>
+</div>
+<p><a href="https://www.youtube.com/watch?v=Te4FLR2k-bo">https://www.youtube.com/watch?v=Te4FLR2k-bo</a></p>
+
+
+
+ ]]></description>
+  <category>flora</category>
+  <category>mapbiomas</category>
+  <category>conservation</category>
+  <category>iucn</category>
+  <guid>https://lsbjordao.github.io/posts/Premio-MapBiomas/</guid>
+  <pubDate>Mon, 01 Aug 2022 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Premio-MapBiomas/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
