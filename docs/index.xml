@@ -21,7 +21,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://lsbjordao.github.io/posts/TTS-Mimosa/image.png" class="img-fluid figure-img" style="width:50.0%"></p>
 <figcaption><em>Mimosa osmarii</em></figcaption>
 </figure>
 </div>
@@ -37,7 +37,7 @@
   <category>TypeTaxonScript</category>
   <guid>https://lsbjordao.github.io/posts/TTS-Mimosa/</guid>
   <pubDate>Wed, 25 Feb 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://lsbjordao.github.io/posts/TTS-Mimosa/image.png" medium="image" type="image/png" height="146" width="144"/>
 </item>
 <item>
   <title>Advances in systematics of Mimosa (Fabaceae): phylogeny and biogeography of the Petiolovariabilis clade</title>
@@ -173,6 +173,33 @@
   <guid>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/</guid>
   <pubDate>Sun, 01 Nov 2020 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>A new species of Mimosa (Leguminosae) endemic to the Brazilian Cerrado</title>
+  <link>https://lsbjordao.github.io/posts/Mimosa-osmarii/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>A new narrow endemic species from the Serra do Cabral is described, <em>Mimosa osmarii</em>, that shows affinities with <em>M. paucifolia</em> var. <em>scoparia</em>, a sympatric taxon.</p>
+<p><a href="https://doi.org/10.11646/phytotaxa.312.2.6">https://doi.org/10.11646/phytotaxa.312.2.6</a></p>
+
+
+
+ ]]></description>
+  <category>trichomes</category>
+  <category>mimosa</category>
+  <category>leguminosae</category>
+  <category>morphology</category>
+  <guid>https://lsbjordao.github.io/posts/Mimosa-osmarii/</guid>
+  <pubDate>Fri, 07 Jul 2017 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

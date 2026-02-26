@@ -1,0 +1,13 @@
+---
+title: "A new species of *Mimosa* (Leguminosae) endemic to the Brazilian Cerrado"
+date: "2017-07-07"
+categories: [trichomes, mimosa, leguminosae, morphology]
+image: "image.jpg"
+---
+
+![](image.jpg){width=50% fig-align="center"}
+
+
+A new narrow endemic species from the Serra do Cabral is described, *Mimosa osmarii*, that shows affinities with *M. paucifolia* var. *scoparia*, a sympatric taxon.
+
+[https://doi.org/10.11646/phytotaxa.312.2.6](https://doi.org/10.11646/phytotaxa.312.2.6)

@@ -2,10 +2,10 @@
 title: "TTS-Mimosa"
 date: "2026-02-25"
 categories: [mimosa, taxonomy, leguminosae, TypeTaxonScript]
-image: "image.jpg"
+image: "image.png"
 ---
 
-![*Mimosa osmarii*](image.jpg)
+![*Mimosa osmarii*](image.png){width=50% fig-align="center"}
 
 The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.
 
