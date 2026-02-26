@@ -120,5 +120,32 @@
   <pubDate>Mon, 01 Aug 2022 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Premio-MapBiomas/image.jpg" medium="image" type="image/jpeg"/>
 </item>
+<item>
+  <title>Trichomes in Mimosa (Leguminosae): Towards a characterization and a terminology standardization</title>
+  <link>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>This study presents a comprehensive analysis of the trichome characteristics in <em>Mimosa</em> (Leguminosae). The authors aimed to characterize and standardize the terminology used to describe trichomes in this genus.</p>
+<p><a href="https://doi.org/10.1016/j.flora.2020.151702">https://doi.org/10.1016/j.flora.2020.151702</a></p>
+
+
+
+ ]]></description>
+  <category>trichomes</category>
+  <category>mimosa</category>
+  <category>leguminosae</category>
+  <category>morphology</category>
+  <guid>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/</guid>
+  <pubDate>Sun, 01 Nov 2020 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
