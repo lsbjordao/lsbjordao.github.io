@@ -1,7 +1,7 @@
 ---
 title: "Toward a Census of *Mimosa* (Leguminosae) in the Atlantic Domain, Southeastern Brazil."
 date: "2021-08-11"
-categories: [mimosa, leguminosae, taxonomy, cerrado]
+categories: [mimosa, leguminosae, taxonomy, atlantic domain]
 image: "image.jpg"
 ---
 
