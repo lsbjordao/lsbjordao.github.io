@@ -1,0 +1,12 @@
+---
+title: "A new species of *Mimosa* (Leguminosae) from Brazil"
+date: "2014-11-05"
+categories: [mimosa, leguminosae, taxonomy]
+image: "image.jpg"
+---
+
+![](image.jpg){width=35% fig-align="center"}
+
+A new species from Brazil is described: *Mimosa porrecta*.
+
+[https://doi.org/10.1600/036364421X16231782047271](https://doi.org/10.1600/036364421X16231782047271)

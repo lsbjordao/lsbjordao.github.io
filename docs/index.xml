@@ -257,5 +257,31 @@
   <pubDate>Fri, 07 Jul 2017 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" medium="image" type="image/jpeg"/>
 </item>
+<item>
+  <title>A new species of Mimosa (Leguminosae) from Brazil</title>
+  <link>https://lsbjordao.github.io/posts/Mimosa-porrecta/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Mimosa-porrecta/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:35.0%"></p>
+</figure>
+</div>
+<p>A new species from Brazil is described: <em>Mimosa porrecta</em>.</p>
+<p><a href="https://doi.org/10.1600/036364421X16231782047271">https://doi.org/10.1600/036364421X16231782047271</a></p>
+
+
+
+ ]]></description>
+  <category>mimosa</category>
+  <category>leguminosae</category>
+  <category>taxonomy</category>
+  <guid>https://lsbjordao.github.io/posts/Mimosa-porrecta/</guid>
+  <pubDate>Wed, 05 Nov 2014 02:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Mimosa-porrecta/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
