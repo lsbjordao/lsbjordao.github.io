@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTTS-Mimosa\n\n\n\nmimosa\n\ntaxonomy\n\nleguminosae\n\nTypeTaxonScript\n\n\n\n\n\n\n\n\n\nFeb 25, 2026\n\n\nLSBJ\n\n\n\n\n\n\n\n\n\n\n\n\nMapBiomas e a avaliação do risco de extinção da flora brasileira\n\n\n\nflora\n\nmapbiomas\n\nconservation\n\niucn\n\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\nLSBJ\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTTS-Mimosa\n\n\n\nmimosa\n\ntaxonomy\n\nleguminosae\n\nTypeTaxonScript\n\n\n\n\n\n\n\n\n\nFeb 25, 2026\n\n\nLSBJ\n\n\n\n\n\n\n\n\n\n\n\n\nTypeTaxonScript\n\n\n\nTypeTaxonScript\n\n\n\n\n\n\n\n\n\nMar 14, 2024\n\n\nLSBJ\n\n\n\n\n\n\n\n\n\n\n\n\nMapBiomas e a avaliação do risco de extinção da flora brasileira\n\n\n\nflora\n\nmapbiomas\n\nconservation\n\niucn\n\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\nLSBJ\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/TTS-Mimosa/index.html",
     "href": "posts/TTS-Mimosa/index.html",
     "title": "TTS-Mimosa",
     "section": "",
-    "text": "The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.\nhttps://lsbjordao.github.io/TTS-Mimosa-App/"
+    "text": "Mimosa osmarii\n\n\nThe TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.\nhttps://lsbjordao.github.io/TTS-Mimosa-App/"
   },
   {
     "objectID": "posts/Premio-MapBiomas/index.html",
@@ -26,5 +26,12 @@
     "title": "MapBiomas e a avaliação do risco de extinção da flora brasileira",
     "section": "",
     "text": "MapBiomas\n\n\nhttps://www.youtube.com/watch?v=Te4FLR2k-bo"
+  },
+  {
+    "objectID": "posts/TypeTaxonScript/index.html",
+    "href": "posts/TypeTaxonScript/index.html",
+    "title": "TypeTaxonScript",
+    "section": "",
+    "text": "TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.\nhttps://doi.org/10.1093/biomethods/bpae017\nIt is better read in PDF format, which can be downloaded from the link below.\nhttps://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf"
   }
 ]

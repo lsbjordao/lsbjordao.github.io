@@ -20,6 +20,12 @@
 
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" class="img-fluid figure-img"></p>
+<figcaption><em>Mimosa osmarii</em></figcaption>
+</figure>
+</div>
 <p>The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.</p>
 <p><a href="https://lsbjordao.github.io/TTS-Mimosa-App/">https://lsbjordao.github.io/TTS-Mimosa-App/</a></p>
 
@@ -33,6 +39,33 @@
   <guid>https://lsbjordao.github.io/posts/TTS-Mimosa/</guid>
   <pubDate>Wed, 25 Feb 2026 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/TTS-Mimosa/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>TypeTaxonScript</title>
+  <dc:creator>LSBJ </dc:creator>
+  <link>https://lsbjordao.github.io/posts/TypeTaxonScript/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/TypeTaxonScript/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.</p>
+<p><a href="https://doi.org/10.1093/biomethods/bpae017">https://doi.org/10.1093/biomethods/bpae017</a></p>
+<p>It is better read in PDF format, which can be downloaded from the link below.</p>
+<p><a href="https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf">https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf</a></p>
+
+
+
+ ]]></description>
+  <category>TypeTaxonScript</category>
+  <guid>https://lsbjordao.github.io/posts/TypeTaxonScript/</guid>
+  <pubDate>Thu, 14 Mar 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/TypeTaxonScript/image.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>MapBiomas e a avaliação do risco de extinção da flora brasileira</title>

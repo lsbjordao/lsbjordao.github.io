@@ -1,0 +1,17 @@
+---
+title: "TypeTaxonScript"
+author: "LSBJ"
+date: "2024-03-14"
+categories: [TypeTaxonScript]
+image: "image.png"
+---
+
+![](image.png){width=50% fig-align="center"}
+
+TypeTaxonScript is a framework for managing taxonomic data collaboratively. It allows users to create, edit, and share taxonomic information in a structured format.
+
+[https://doi.org/10.1093/biomethods/bpae017](https://doi.org/10.1093/biomethods/bpae017)
+
+It is better read in PDF format, which can be downloaded from the link below.
+
+[https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf](https://academic.oup.com/biomethods/article-pdf/9/1/bpae017/57136701/bpae017.pdf)

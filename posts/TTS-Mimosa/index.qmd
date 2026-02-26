@@ -6,6 +6,8 @@ categories: [mimosa, taxonomy, leguminosae, TypeTaxonScript]
 image: "image.jpg"
 ---
 
+![*Mimosa osmarii*](image.jpg)
+
 The TTS-Mimosa project is based on TypeTaxonScript, a framework for managing taxonomic data collaboratively.
 
 [https://lsbjordao.github.io/TTS-Mimosa-App/](https://lsbjordao.github.io/TTS-Mimosa-App/)
