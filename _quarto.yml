@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   description: "A blog built with Quarto"
@@ -10,8 +11,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/lsbjordao/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: person-vcard
+        href: https://lattes.cnpq.br/6445788694639027
 format:
   html:
     theme: cyborg
