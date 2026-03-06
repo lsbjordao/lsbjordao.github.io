@@ -13,6 +13,8 @@ website:
         href: https://github.com/lsbjordao/
       - icon: person-vcard
         href: https://lattes.cnpq.br/6445788694639027
+  google-analytics: "G-3H8K0NTQRL"
+
 format:
   html:
     theme: cyborg
