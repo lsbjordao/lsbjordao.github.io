@@ -107,5 +107,8 @@ display:inline-flex;
 align-items:center;">
 🚀
 </span>
+<img src="https://www.gimp.org/images/frontpage/wilber-big.png" 
+     height="50" 
+     title="GIMP">
 
 </div>
