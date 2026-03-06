@@ -80,6 +80,7 @@ color:#00ff9c;">
 <img src="https://cdn.simpleicons.org/rabbitmq/FF6600"
      height="42"
      title="RabbitMQ">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" title="NumPy">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" title="Pandas">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" title="Jupyter">
