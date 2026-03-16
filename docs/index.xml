@@ -120,6 +120,29 @@
   <media:content url="https://lsbjordao.github.io/posts/TypeTaxonScript/image.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
+  <title>Introdução à Filoinformática</title>
+  <link>https://lsbjordao.github.io/posts/Introducao-a-Filoinformatica/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A sistemática filogenética é atualmente um campo científico em plena expansão. As etapas de desenvolvimento dessas pesquisas envolvem a utilização de diversos programas de computadores, muitas vezes sem interface gráfica com usuário, inclusive de linguagens de programação. O tempo de aprendizagem desses programas pode variar dependendo do nível de conhecimento individual em informática. Nesse sentido, o presente curso poderá contribuir para a aceleração do processo de aprendizagem, ao mesmo tempo em que demonstra uma visão geral de todos os processos de uma análise filogenética com dados moleculares.</p>
+<p><a href="https://lsbjordao.github.io/Introducao-a-Filoinformatica/">https://lsbjordao.github.io/Introducao-a-Filoinformatica/</a></p>
+
+
+
+ ]]></description>
+  <category>filogenia</category>
+  <category>molecular</category>
+  <category>R</category>
+  <category>MrBayes</category>
+  <category>iq-tree</category>
+  <guid>https://lsbjordao.github.io/posts/Introducao-a-Filoinformatica/</guid>
+  <pubDate>Wed, 19 Oct 2022 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Introducao-a-Filoinformatica/image.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+<item>
   <title>MapBiomas e a avaliação do risco de extinção da flora brasileira</title>
   <link>https://lsbjordao.github.io/posts/Premio-MapBiomas/</link>
   <description><![CDATA[ 

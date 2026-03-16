@@ -1,0 +1,10 @@
+---
+title: "Introdução à Filoinformática"
+date: "2022-10-19"
+categories: [filogenia, molecular, R, MrBayes, iq-tree]
+image: "image.png"
+---
+
+A sistemática filogenética é atualmente um campo científico em plena expansão. As etapas de desenvolvimento dessas pesquisas envolvem a utilização de diversos programas de computadores, muitas vezes sem interface gráfica com usuário, inclusive de linguagens de programação. O tempo de aprendizagem desses programas pode variar dependendo do nível de conhecimento individual em informática. Nesse sentido, o presente curso poderá contribuir para a aceleração do processo de aprendizagem, ao mesmo tempo em que demonstra uma visão geral de todos os processos de uma análise filogenética com dados moleculares.
+
+[https://lsbjordao.github.io/Introducao-a-Filoinformatica/](https://lsbjordao.github.io/Introducao-a-Filoinformatica/)
