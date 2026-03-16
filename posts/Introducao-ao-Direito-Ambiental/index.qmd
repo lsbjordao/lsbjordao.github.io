@@ -1,0 +1,10 @@
+---
+title: "Introdução ao Direito Ambiental"
+date: "2025-11-03"
+categories: [direito ambiental]
+image: "image.png"
+---
+
+O direito ao meio ambiente ecologicamente equilibrado é um direito fundamental de toda coletividade e um compromisso com as gerações futuras. Neste ensaio, propomos uma das possíveis narrativas que visa oferecer instrumentos e ferramentas essenciais para a cidadania, fundamentada no reconhecimento do meio ambiente ecologicamente equilibrado como um direito de natureza difusa e transindividual. Esse direito, intrinsecamente voltado à garantia de uma qualidade de vida saudável para toda a coletividade, exige a plena consciência de sua importância. O retrocesso ambiental, ao ferir os preceitos constitucionais, não encontra amparo seja no ordenamento jurídico ambiental, doutrina ou jurisprudência. Apenas quando os cidadãos assimilarem plenamente os fundamentos constitucionais, poderão se tornar protagonistas na defesa e promoção de um ambiente digno para todos, assegurando a justiça social, impulsionando o desenvolvimento nacional e contribuindo para a redução da pobreza, marginalização, e das desigualdades sociais e regionais.
+
+[https://lsbjordao.github.io/Introducao-Direito-Ambiental/](https://lsbjordao.github.io/Introducao-Direito-Ambiental/)
