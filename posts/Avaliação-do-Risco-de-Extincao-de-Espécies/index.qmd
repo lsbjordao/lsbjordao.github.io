@@ -1,7 +1,7 @@
 ---
-title: "Introdução ao Direito Ambiental"
-date: "2025-03-11"
-categories: [direito ambiental]
+title: "Avaliação do Risco de Extinção de Espécies"
+date: "2025-03-23"
+categories: [IUCN]
 image: "image.png"
 ---
 
