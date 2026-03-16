@@ -1,0 +1,12 @@
+---
+title: "Conceito de Espécime e Tipo Nomenclatural"
+date: "2022-03-01"
+categories: [specimen, espécime, tipo, typus]
+image: "image.png"
+---
+
+Para fins de tipificação, a definição de espécime é extremamente importante. Espécime é uma coleta ou parte de uma coleta de uma única espécie ou táxon infraespecífico, não consideradas as misturas. Ele pode consistir de um único organismo, de partes de um ou vários organismos ou de múltiplos pequenos organismos.
+
+Um espécime normalmente é montado em uma única exsicata de herbário ou uma preparação equivalente, tais como: uma caixa, envelope, frasco ou lâmina de microscopia (Código Internacional de Nomenclatura para Algas, Fungos e Plantas, Art. 8.2).
+
+[https://lsbjordao.github.io/Conceito-de-Especime-e-Tipo/](https://lsbjordao.github.io/Conceito-de-Especime-e-Tipo/)
