@@ -1,0 +1,12 @@
+---
+title: "Turn a Quarto Book into a focused, presentation-ready reading experience"
+date: "2026-05-01"
+categories: [Quarto]
+image: "image.png"
+---
+
+![](image2.png){fig-align="center"}
+
+I just released a Quarto extension that makes book-style documentation feel polished and intentional: a floating Focus Mode toggle, section-based Presentation Mode, keyboard navigation, and a smarter chapter progress bar. The impact is immediate: fewer distractions for readers, smoother flow for presenters, and a much better overall reading experience. It follows the user’s theme, remembers preferences in the browser, and plugs into Quarto with minimal setup. If you publish docs, course material, or technical books with Quarto, this is a small change that delivers a big UX upgrade.
+
+<https://github.com/lsbjordao/quarto-book-focus-mode>
