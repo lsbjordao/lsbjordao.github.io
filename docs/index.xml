@@ -12,8 +12,8 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Fri, 01 May 2026 03:00:00 GMT</lastBuildDate>
 <item>
-  <title>Turn a Quarto Book into a focused, presentation-ready reading experience</title>
-  <link>https://lsbjordao.github.io/posts/Quarto-book-focus-mode/</link>
+  <title>Turn Quarto Books and Websites into a focused, presentation-ready reading experience</title>
+  <link>https://lsbjordao.github.io/posts/Quarto-focus-mode/</link>
   <description><![CDATA[ 
 
 
@@ -21,19 +21,19 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://lsbjordao.github.io/posts/Quarto-book-focus-mode/image2.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://lsbjordao.github.io/posts/Quarto-focus-mode/image2.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<p>I just released a Quarto extension that makes book-style documentation feel polished and intentional: a floating Focus Mode toggle, section-based Presentation Mode, keyboard navigation, and a smarter chapter progress bar. The impact is immediate: fewer distractions for readers, smoother flow for presenters, and a much better overall reading experience. It follows the user’s theme, remembers preferences in the browser, and plugs into Quarto with minimal setup. If you publish docs, course material, or technical books with Quarto, this is a small change that delivers a big UX upgrade.</p>
-<p><a href="https://github.com/lsbjordao/quarto-book-focus-mode" class="uri">https://github.com/lsbjordao/quarto-book-focus-mode</a></p>
+<p>I just released a Quarto extension that makes book-style and website-style content feel polished and intentional: a floating Focus Mode toggle, section-based Presentation Mode, keyboard navigation, and a smarter chapter progress bar. The impact is immediate: fewer distractions for readers, smoother flow for presenters, and a much better overall reading experience. It follows the user’s theme, remembers preferences in the browser, and plugs into Quarto with minimal setup. If you publish docs, course material, or technical books with Quarto, this is a small change that delivers a big UX upgrade.</p>
+<p><a href="https://github.com/lsbjordao/quarto-focus-mode" class="uri">https://github.com/lsbjordao/quarto-focus-mode</a></p>
 
 
 
  ]]></description>
   <category>Quarto</category>
-  <guid>https://lsbjordao.github.io/posts/Quarto-book-focus-mode/</guid>
+  <guid>https://lsbjordao.github.io/posts/Quarto-focus-mode/</guid>
   <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://lsbjordao.github.io/posts/Quarto-book-focus-mode/image.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://lsbjordao.github.io/posts/Quarto-focus-mode/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>TTS-Mimosa</title>
