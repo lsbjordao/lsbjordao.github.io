@@ -10,7 +10,32 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 01 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto Conditional Variables: A New Way to Parametrize Your Content</title>
+  <link>https://lsbjordao.github.io/posts/Quarto-conditional-vars/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/lsbjordao/quarto-conditional-vars/blob/dd10e46a67e2e8497fd6f69e7bad1e7bbd31bea3/logo.png?raw=true" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>I just released a Quarto extension that introduces conditional variables, allowing you to parametrize your content in new and flexible ways. This extension makes it easy to create dynamic documents that adapt to different contexts, audiences, or scenarios. The impact is immediate: more personalized content, streamlined workflows, and a much better overall authoring experience. With conditional variables, you can define variables that change their values based on conditions you specify, such as the output format, the presence of certain inline or block elements, or other custom criteria. This opens up a world of possibilities for creating custom content that is tailored by dynamic conditions.</p>
+<p><a href="https://github.com/lsbjordao/quarto-conditional-vars" class="uri">https://github.com/lsbjordao/quarto-conditional-vars</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>Quarto Extensions</category>
+  <guid>https://lsbjordao.github.io/posts/Quarto-conditional-vars/</guid>
+  <pubDate>Mon, 04 May 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://github.com/lsbjordao/quarto-conditional-vars/blob/dd10e46a67e2e8497fd6f69e7bad1e7bbd31bea3/logo.png?raw=true" medium="image"/>
+</item>
 <item>
   <title>Turn Quarto Books and Websites into a focused, presentation-ready reading experience</title>
   <link>https://lsbjordao.github.io/posts/Quarto-focus-mode/</link>
@@ -31,6 +56,7 @@
 
  ]]></description>
   <category>Quarto</category>
+  <category>Quarto Extensions</category>
   <guid>https://lsbjordao.github.io/posts/Quarto-focus-mode/</guid>
   <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Quarto-focus-mode/image.png" medium="image" type="image/png" height="144" width="144"/>

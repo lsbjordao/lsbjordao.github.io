@@ -1,0 +1,12 @@
+---
+title: "Quarto Conditional Variables: A New Way to Parametrize Your Content"
+date: "2026-05-04"
+categories: [Quarto, Quarto Extensions]
+image: "https://github.com/lsbjordao/quarto-conditional-vars/blob/dd10e46a67e2e8497fd6f69e7bad1e7bbd31bea3/logo.png?raw=true"
+---
+
+![](https://github.com/lsbjordao/quarto-conditional-vars/blob/dd10e46a67e2e8497fd6f69e7bad1e7bbd31bea3/logo.png?raw=true){fig-align="center"}
+
+I just released a Quarto extension that introduces conditional variables, allowing you to parametrize your content in new and flexible ways. This extension makes it easy to create dynamic documents that adapt to different contexts, audiences, or scenarios. The impact is immediate: more personalized content, streamlined workflows, and a much better overall authoring experience. With conditional variables, you can define variables that change their values based on conditions you specify, such as the output format, the presence of certain inline or block elements, or other custom criteria. This opens up a world of possibilities for creating custom content that is tailored by dynamic conditions.
+
+<https://github.com/lsbjordao/quarto-conditional-vars>
