@@ -1,0 +1,16 @@
+---
+title: "Quarto Scientific Writing: Improving Scientific Writing in Quarto with Real-Time Feedback"
+date: "2026-06-15"
+categories: [Quarto, Quarto Extensions]
+image: "image.png"
+---
+
+![](image.png){fig-align="center"}
+
+I just released **Quarto Scientific Writing**, a Quarto extension designed to help researchers improve the quality, consistency, and reproducibility of their scientific manuscripts. The extension provides real-time, in-browser diagnostics covering writing style, document structure, readability, and common linguistic issues found in scientific prose.
+
+The goal is simple: help authors identify potential problems while they write, rather than after submission or peer review. By integrating writing diagnostics directly into the authoring workflow, the extension makes it easier to produce clearer manuscripts, follow scientific writing best practices, and maintain consistency throughout a document.
+
+Whether you're preparing a thesis, manuscript, report, or teaching scientific writing, Quarto Scientific Writing offers immediate feedback that can improve both the writing process and the final document. The result is a more efficient workflow, higher-quality manuscripts, and a stronger foundation for reproducible scientific communication.
+
+<https://github.com/lsbjordao/quarto-scientific-writing>

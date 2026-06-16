@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://lsbjordao.github.io/index.html</loc>
-    <lastmod>2026-05-04T21:07:22.143Z</lastmod>
+    <lastmod>2026-06-16T19:55:25.343Z</lastmod>
   </url>
   <url>
     <loc>https://lsbjordao.github.io/posts/TTS-Mimosa/index.html</loc>
@@ -75,5 +75,9 @@
   <url>
     <loc>https://lsbjordao.github.io/posts/Quarto-conditional-vars/index.html</loc>
     <lastmod>2026-05-04T21:07:09.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Quarto-scientific-writing/index.html</loc>
+    <lastmod>2026-06-16T19:55:15.351Z</lastmod>
   </url>
 </urlset>

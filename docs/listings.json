@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Quarto-scientific-writing/index.html",
       "/posts/Quarto-conditional-vars/index.html",
       "/posts/Quarto-focus-mode/index.html",
       "/posts/TTS-Mimosa/index.html",

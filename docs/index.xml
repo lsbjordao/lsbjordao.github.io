@@ -10,7 +10,34 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 04 May 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto Scientific Writing: Improving Scientific Writing in Quarto with Real-Time Feedback</title>
+  <link>https://lsbjordao.github.io/posts/Quarto-scientific-writing/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Quarto-scientific-writing/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>I just released <strong>Quarto Scientific Writing</strong>, a Quarto extension designed to help researchers improve the quality, consistency, and reproducibility of their scientific manuscripts. The extension provides real-time, in-browser diagnostics covering writing style, document structure, readability, and common linguistic issues found in scientific prose.</p>
+<p>The goal is simple: help authors identify potential problems while they write, rather than after submission or peer review. By integrating writing diagnostics directly into the authoring workflow, the extension makes it easier to produce clearer manuscripts, follow scientific writing best practices, and maintain consistency throughout a document.</p>
+<p>Whether you’re preparing a thesis, manuscript, report, or teaching scientific writing, Quarto Scientific Writing offers immediate feedback that can improve both the writing process and the final document. The result is a more efficient workflow, higher-quality manuscripts, and a stronger foundation for reproducible scientific communication.</p>
+<p><a href="https://github.com/lsbjordao/quarto-scientific-writing" class="uri">https://github.com/lsbjordao/quarto-scientific-writing</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>Quarto Extensions</category>
+  <guid>https://lsbjordao.github.io/posts/Quarto-scientific-writing/</guid>
+  <pubDate>Mon, 15 Jun 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Quarto-scientific-writing/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Quarto Conditional Variables: A New Way to Customize Your Content</title>
   <link>https://lsbjordao.github.io/posts/Quarto-conditional-vars/</link>
