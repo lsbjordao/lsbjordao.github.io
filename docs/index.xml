@@ -10,7 +10,38 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 15 Jun 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Flora e Funga do Brasil — Cronologia</title>
+  <link>https://lsbjordao.github.io/posts/FFB-cronologia/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/FFB-cronologia/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:30.0%"></p>
+</figure>
+</div>
+<p>Como um nome científico mudou ao longo do tempo? Quando passou a ser considerado sinônimo? Qual é o nome aceito atualmente?</p>
+<p>O novo aplicativo Flora e Funga do Brasil — Cronologia transforma diferentes versões da base Flora e Funga do Brasil em uma experiência de consulta simples, visual e informativa.</p>
+<p>Pesquise um táxon e acompanhe sua trajetória versão por versão. O aplicativo destaca mudanças de status taxonômico, nomes aceitos, autoria e inclusão ou remoção de sinônimos, além de informar há quanto tempo o registro permanece estável.</p>
+<p>No painel analítico, você também pode visualizar a evolução dos dados ao longo das versões, comparar quantidades de registros, nomes aceitos, sinônimos, famílias e gêneros e aplicar filtros por grupo taxonômico, estado, endemismo, origem, domínio fitogeográfico, tipo de vegetação e muito mais.</p>
+<p>E o melhor: o aplicativo reúne dados atualizados e as versões mais recentes da Flora e Funga do Brasil, facilitando tanto consultas rápidas quanto análises históricas mais detalhadas.</p>
+<p>Explore o passado, acompanhe as mudanças e descubra o estado atual da biodiversidade brasileira.</p>
+<p>Acesse o Flora e Funga do Brasil — Cronologia e veja a história por trás de cada nome.</p>
+<p><a href="https://lsbjordao-ffb-cronologia.hf.space/">https://lsbjordao-ffb-cronologia.hf.space//</a></p>
+
+
+
+ ]]></description>
+  <category>FFB</category>
+  <category>cronologia</category>
+  <guid>https://lsbjordao.github.io/posts/FFB-cronologia/</guid>
+  <pubDate>Tue, 14 Jul 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/FFB-cronologia/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Quarto Scientific Writing: Improving Scientific Writing in Quarto with Real-Time Feedback</title>
   <link>https://lsbjordao.github.io/posts/Quarto-scientific-writing/</link>
