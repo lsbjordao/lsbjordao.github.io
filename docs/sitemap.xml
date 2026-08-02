@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lsbjordao.github.io/posts/Quarto-cite-this/index.html</loc>
+    <lastmod>2026-08-02T20:57:13.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Quarto-scientific-writing/index.html</loc>
+    <lastmod>2026-06-16T19:55:15.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Quarto-focus-mode/index.html</loc>
+    <lastmod>2026-05-04T21:02:00.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Avaliação-do-Risco-de-Extincao-de-Espécies/index.html</loc>
+    <lastmod>2026-03-16T20:25:42.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Introducao-a-Filoinformatica/index.html</loc>
+    <lastmod>2026-03-16T19:54:12.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/index.html</loc>
+    <lastmod>2026-02-26T23:42:36.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Mimosa-osmarii/index.html</loc>
+    <lastmod>2026-02-26T01:28:05.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/index.html</loc>
+    <lastmod>2026-02-26T01:13:51.757Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/TypeTaxonScript/index.html</loc>
+    <lastmod>2026-02-26T01:04:23.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lsbjordao.github.io/posts/TTS-Mimosa/index.html</loc>
+    <lastmod>2026-02-26T01:28:39.909Z</lastmod>
+  </url>
+  <url>
     <loc>https://lsbjordao.github.io/about.html</loc>
     <lastmod>2026-03-06T02:03:30.489Z</lastmod>
   </url>
@@ -9,76 +49,36 @@
     <lastmod>2026-07-14T20:00:20.173Z</lastmod>
   </url>
   <url>
-    <loc>https://lsbjordao.github.io/posts/TTS-Mimosa/index.html</loc>
-    <lastmod>2026-02-26T01:28:39.909Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsbjordao.github.io/posts/Premio-MapBiomas/index.html</loc>
     <lastmod>2026-02-26T00:57:26.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsbjordao.github.io/posts/TypeTaxonScript/index.html</loc>
-    <lastmod>2026-02-26T01:04:23.541Z</lastmod>
   </url>
   <url>
     <loc>https://lsbjordao.github.io/posts/Petiolovariavilis-Clade/index.html</loc>
     <lastmod>2026-02-26T01:21:26.785Z</lastmod>
   </url>
   <url>
-    <loc>https://lsbjordao.github.io/posts/Trichomes-in-Mimosa/index.html</loc>
-    <lastmod>2026-02-26T01:13:51.757Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsbjordao.github.io/posts/Mimosa-pabstiana/index.html</loc>
     <lastmod>2026-02-26T01:24:31.333Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsbjordao.github.io/posts/Mimosa-osmarii/index.html</loc>
-    <lastmod>2026-02-26T01:28:05.629Z</lastmod>
   </url>
   <url>
     <loc>https://lsbjordao.github.io/posts/Four-new-species/index.html</loc>
     <lastmod>2026-02-26T23:39:45.614Z</lastmod>
   </url>
   <url>
-    <loc>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/index.html</loc>
-    <lastmod>2026-02-26T23:42:36.446Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsbjordao.github.io/posts/Mimosa-porrecta/index.html</loc>
     <lastmod>2026-02-26T23:48:36.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsbjordao.github.io/posts/Introducao-a-Filoinformatica/index.html</loc>
-    <lastmod>2026-03-16T19:54:12.164Z</lastmod>
   </url>
   <url>
     <loc>https://lsbjordao.github.io/posts/Introducao-ao-Direito-Ambiental/index.html</loc>
     <lastmod>2026-03-16T20:24:44.612Z</lastmod>
   </url>
   <url>
-    <loc>https://lsbjordao.github.io/posts/Avaliação-do-Risco-de-Extincao-de-Espécies/index.html</loc>
-    <lastmod>2026-03-16T20:25:42.456Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsbjordao.github.io/posts/Conceito-de-Especime-e-Tipo/index.html</loc>
     <lastmod>2026-03-16T21:59:31.957Z</lastmod>
   </url>
   <url>
-    <loc>https://lsbjordao.github.io/posts/Quarto-book-focus-mode/index.html</loc>
-    <lastmod>2026-05-01T14:13:31.851Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsbjordao.github.io/posts/Quarto-focus-mode/index.html</loc>
-    <lastmod>2026-05-04T21:02:00.705Z</lastmod>
-  </url>
-  <url>
     <loc>https://lsbjordao.github.io/posts/Quarto-conditional-vars/index.html</loc>
     <lastmod>2026-05-04T21:07:09.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lsbjordao.github.io/posts/Quarto-scientific-writing/index.html</loc>
-    <lastmod>2026-06-16T19:55:15.351Z</lastmod>
   </url>
   <url>
     <loc>https://lsbjordao.github.io/posts/FFB-cronologia/index.html</loc>

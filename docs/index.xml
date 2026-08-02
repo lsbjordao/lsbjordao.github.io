@@ -10,7 +10,35 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 14 Jul 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>cite-this: a build-time “how to cite” control for Quarto books and websites</title>
+  <link>https://lsbjordao.github.io/posts/Quarto-cite-this/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Quarto-cite-this/image.png" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption>cite-this logo</figcaption>
+</figure>
+</div>
+<p>I just released <strong>cite-this</strong>, a Quarto extension that gives readers a “how to cite” control for the current page or for the whole publication, in one click. It copies the citation as text formatted by a CSL style or as a BibTeX <code>@misc</code> entry, and it can also offer the <code>.bib</code> file for download.</p>
+<p>What sets it apart is that every citation is prepared during the Quarto render, in Lua. The browser never formats a citation — it only picks which ready-made variant to copy. Because of that the extension needs no client-side citation library, works with <code>embed-resources: true</code>, and still shows a correct citation when JavaScript is disabled. The control is collapsed by default and expands on hover, keyboard focus, or tap, so keyboard and touch users can reach it too.</p>
+<p>It ships with seven CSL styles (ABNT, APA, Chicago, Harvard, IEEE, MLA and Vancouver), accepts your own <code>.csl</code> files, reads the metadata your project already declares (<code>title</code>, <code>author</code>, <code>date</code>, <code>site-url</code>), and can be placed in the title, navbar, either sidebar, or a floating corner. Interface text is translated to English, Portuguese and Spanish. There is a <a href="https://lsbjordao.github.io/quarto-cite-this/">live demo and documentation</a> with every position and scope working on the page.</p>
+<p><a href="https://github.com/lsbjordao/quarto-cite-this" class="uri">https://github.com/lsbjordao/quarto-cite-this</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>Quarto Extensions</category>
+  <guid>https://lsbjordao.github.io/posts/Quarto-cite-this/</guid>
+  <pubDate>Sun, 02 Aug 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Quarto-cite-this/image.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Flora e Funga do Brasil — Cronologia</title>
   <link>https://lsbjordao.github.io/posts/FFB-cronologia/</link>

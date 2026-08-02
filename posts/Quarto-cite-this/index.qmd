@@ -1,0 +1,16 @@
+---
+title: "cite-this: a build-time \"how to cite\" control for Quarto books and websites"
+date: "2026-08-02"
+categories: [Quarto, Quarto Extensions]
+image: "image.png"
+---
+
+![cite-this logo](image.png){width=30% fig-align="center"}
+
+I just released **cite-this**, a Quarto extension that gives readers a "how to cite" control for the current page or for the whole publication, in one click. It copies the citation as text formatted by a CSL style or as a BibTeX `@misc` entry, and it can also offer the `.bib` file for download.
+
+What sets it apart is that every citation is prepared during the Quarto render, in Lua. The browser never formats a citation — it only picks which ready-made variant to copy. Because of that the extension needs no client-side citation library, works with `embed-resources: true`, and still shows a correct citation when JavaScript is disabled. The control is collapsed by default and expands on hover, keyboard focus, or tap, so keyboard and touch users can reach it too.
+
+It ships with seven CSL styles (ABNT, APA, Chicago, Harvard, IEEE, MLA and Vancouver), accepts your own `.csl` files, reads the metadata your project already declares (`title`, `author`, `date`, `site-url`), and can be placed in the title, navbar, either sidebar, or a floating corner. Interface text is translated to English, Portuguese and Spanish. There is a [live demo and documentation](https://lsbjordao.github.io/quarto-cite-this/) with every position and scope working on the page.
+
+<https://github.com/lsbjordao/quarto-cite-this>

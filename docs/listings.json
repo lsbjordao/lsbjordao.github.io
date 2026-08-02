@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Quarto-cite-this/index.html",
       "/posts/FFB-cronologia/index.html",
       "/posts/Quarto-scientific-writing/index.html",
       "/posts/Quarto-conditional-vars/index.html",
