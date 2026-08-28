@@ -10,7 +10,34 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sun, 02 Aug 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Markdown 4 Quarto: scientific authoring in VS Code’s native Markdown preview</title>
+  <link>https://lsbjordao.github.io/posts/Markdown-4-Quarto/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Markdown-4-Quarto/image.webp" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption>A Markdown document with syntax marks, a Quarto logo, and a circular arrow showing the path from writing to publishing.</figcaption>
+</figure>
+</div>
+<p>I just released <strong>Markdown 4 Quarto</strong>, a VS Code extension that brings Quarto- and Pandoc-oriented scientific authoring features to the native Markdown preview while keeping <code>.md</code> as the primary writing surface. It adds alerts, footnotes, cross-references, BibTeX citations with CSL formatting, automatic bibliographies, project variables, and Quarto-style equation labels without replacing the built-in preview.</p>
+<p>The workflow separates writing from publishing: draft lightweight sections in Markdown with VS Code’s synchronized preview and source navigation, then include them in a <code>.qmd</code> file when Quarto needs to produce HTML, PDF, or DOCX. This preserves the built-in authoring loop while leaving document-level composition and final output to Quarto.</p>
+<p><a href="https://marketplace.visualstudio.com/items?itemName=lsbjordao.markdown-4-quarto" class="uri">https://marketplace.visualstudio.com/items?itemName=lsbjordao.markdown-4-quarto</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>Quarto Extensions</category>
+  <guid>https://lsbjordao.github.io/posts/Markdown-4-Quarto/</guid>
+  <pubDate>Wed, 26 Aug 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Markdown-4-Quarto/image.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>cite-this: a build-time “how to cite” control for Quarto books and websites</title>
   <link>https://lsbjordao.github.io/posts/Quarto-cite-this/</link>
