@@ -10,7 +10,36 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 26 Aug 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto-Needs: requirements engineering inside the Quarto document</title>
+  <link>https://lsbjordao.github.io/posts/Quarto-Needs/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Quarto-Needs/image.webp" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption>Quarto-Needs symbol: an engineering gear with a Quarto quadrant core beside a document carrying linked graph nodes, wrapped by an orbital traceability ring.</figcaption>
+</figure>
+</div>
+<p>Quarto-Needs turns a Quarto project into a traceable engineering model. Requirements, architecture decisions, components, risks, tests and evidence are authored as fenced <code>.need</code> blocks inside ordinary <code>.qmd</code> files, and a Python core resolves them into a typed property graph that validation, coverage metrics, quality gates and the rendered book all read from.</p>
+<p>The documentation is therefore not a description of the model kept in sync by hand — it is a projection of it. A requirement card shows its badges, rationale and typed relations because those relations exist in the graph, and a link to a test case that does not exist is a validation error rather than a stale sentence. The same graph drives tables, traceability matrices, coverage dashboards, C4 diagrams and an interactive graph view, plus a command line for baselines, semantic diff and change impact, a language server for editors, and ReqIF, JSON-LD and OSLC projections.</p>
+<p>It also documents and verifies itself: the published case study models Quarto-Needs with Quarto-Needs, connecting stakeholder needs to requirements, decisions, real source modules, executable tests and machine evidence across 183 engineering objects, in English and Brazilian Portuguese.</p>
+<p>The project is pre-1.0 and under active development. The manual and the case study are published; the Python engine is not on the package index yet.</p>
+<p><a href="https://github.com/lsbjordao/quarto-needs" class="uri">https://github.com/lsbjordao/quarto-needs</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>Quarto Extensions</category>
+  <guid>https://lsbjordao.github.io/posts/Quarto-Needs/</guid>
+  <pubDate>Mon, 07 Sep 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Quarto-Needs/image.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Markdown 4 Quarto: scientific authoring in VS Code’s native Markdown preview</title>
   <link>https://lsbjordao.github.io/posts/Markdown-4-Quarto/</link>
@@ -505,32 +534,6 @@
   <guid>https://lsbjordao.github.io/posts/Mimosa-osmarii/</guid>
   <pubDate>Fri, 07 Jul 2017 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>A new species of Mimosa (Leguminosae) from Brazil</title>
-  <link>https://lsbjordao.github.io/posts/Mimosa-porrecta/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lsbjordao.github.io/posts/Mimosa-porrecta/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:35.0%"></p>
-</figure>
-</div>
-<p>A new species from Brazil is described: <em>Mimosa porrecta</em>.</p>
-<p><a href="https://doi.org/10.1600/036364421X16231782047271">https://doi.org/10.1600/036364421X16231782047271</a></p>
-
-
-
- ]]></description>
-  <category>mimosa</category>
-  <category>leguminosae</category>
-  <category>taxonomy</category>
-  <guid>https://lsbjordao.github.io/posts/Mimosa-porrecta/</guid>
-  <pubDate>Wed, 05 Nov 2014 02:00:00 GMT</pubDate>
-  <media:content url="https://lsbjordao.github.io/posts/Mimosa-porrecta/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

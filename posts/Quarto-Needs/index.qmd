@@ -1,0 +1,18 @@
+---
+title: "Quarto-Needs: requirements engineering inside the Quarto document"
+date: "2026-09-07"
+categories: [Quarto, Quarto Extensions]
+image: "image.webp"
+---
+
+![Quarto-Needs symbol: an engineering gear with a Quarto quadrant core beside a document carrying linked graph nodes, wrapped by an orbital traceability ring.](image.webp){width=30% fig-align="center"}
+
+Quarto-Needs turns a Quarto project into a traceable engineering model. Requirements, architecture decisions, components, risks, tests and evidence are authored as fenced `.need` blocks inside ordinary `.qmd` files, and a Python core resolves them into a typed property graph that validation, coverage metrics, quality gates and the rendered book all read from.
+
+The documentation is therefore not a description of the model kept in sync by hand — it is a projection of it. A requirement card shows its badges, rationale and typed relations because those relations exist in the graph, and a link to a test case that does not exist is a validation error rather than a stale sentence. The same graph drives tables, traceability matrices, coverage dashboards, C4 diagrams and an interactive graph view, plus a command line for baselines, semantic diff and change impact, a language server for editors, and ReqIF, JSON-LD and OSLC projections.
+
+It also documents and verifies itself: the published case study models Quarto-Needs with Quarto-Needs, connecting stakeholder needs to requirements, decisions, real source modules, executable tests and machine evidence across 183 engineering objects, in English and Brazilian Portuguese.
+
+The project is pre-1.0 and under active development. The manual and the case study are published; the Python engine is not on the package index yet.
+
+<https://github.com/lsbjordao/quarto-needs>
