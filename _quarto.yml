@@ -9,6 +9,10 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: "Site"
+        href: https://lsbjordao.dev
+      - text: "Portfólio"
+        href: https://lsbjordao.dev/portfolio
       - icon: github
         href: https://github.com/lsbjordao/
       - icon: person-vcard
