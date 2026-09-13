@@ -1,0 +1,18 @@
+---
+title: "Semantic CSS Studio: portable styles for semantic HTML"
+date: "2026-09-13"
+categories: [Quarto, CSS]
+image: "semantic-css-studio.webp"
+---
+
+![Semantic CSS Studio symbol with white angle brackets and a yellow slash](semantic-css-studio.webp){width=30% fig-align="center"}
+
+I built **Semantic CSS Studio** to make the visual design of articles and documentation reusable. Adjust typography, colors, spacing and reading width in the browser, inspect a document preview, then export a stylesheet that works with semantic HTML.
+
+The editable theme is a versioned JSON model. A TypeScript compiler turns it into CSS independently of the React interface, so the exported document does not need the editor runtime or utility classes. Light and dark palettes, element overrides and print rules can travel with the theme.
+
+For Quarto workflows, the studio includes a dedicated CSS exporter and a preview based on a rendered Quarto article. This reference helps inspect the result, but themes and extensions should still be checked in the target project. The application is under active development; themes can be saved as JSON or exported with CSS and a demonstration page in a ZIP package.
+
+[Source code on GitHub](https://github.com/lsbjordao/semantic-css-studio)
+
+<https://lsbjordao.github.io/semantic-css-studio/>

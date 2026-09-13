@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Semantic-CSS-Studio/index.html",
       "/posts/Quarto-Needs/index.html",
       "/posts/Markdown-4-Quarto/index.html",
       "/posts/Quarto-cite-this/index.html",

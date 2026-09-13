@@ -10,7 +10,36 @@
 <atom:link href="https://lsbjordao.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 07 Sep 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Semantic CSS Studio: portable styles for semantic HTML</title>
+  <link>https://lsbjordao.github.io/posts/Semantic-CSS-Studio/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lsbjordao.github.io/posts/Semantic-CSS-Studio/semantic-css-studio.webp" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption>Semantic CSS Studio symbol with white angle brackets and a yellow slash</figcaption>
+</figure>
+</div>
+<p>I built <strong>Semantic CSS Studio</strong> to make the visual design of articles and documentation reusable. Adjust typography, colors, spacing and reading width in the browser, inspect a document preview, then export a stylesheet that works with semantic HTML.</p>
+<p>The editable theme is a versioned JSON model. A TypeScript compiler turns it into CSS independently of the React interface, so the exported document does not need the editor runtime or utility classes. Light and dark palettes, element overrides and print rules can travel with the theme.</p>
+<p>For Quarto workflows, the studio includes a dedicated CSS exporter and a preview based on a rendered Quarto article. This reference helps inspect the result, but themes and extensions should still be checked in the target project. The application is under active development; themes can be saved as JSON or exported with CSS and a demonstration page in a ZIP package.</p>
+<p><a href="https://github.com/lsbjordao/semantic-css-studio">Source code on GitHub</a></p>
+<p><a href="https://lsbjordao.github.io/semantic-css-studio/" class="uri">https://lsbjordao.github.io/semantic-css-studio/</a></p>
+
+
+
+ ]]></description>
+  <category>Quarto</category>
+  <category>CSS</category>
+  <guid>https://lsbjordao.github.io/posts/Semantic-CSS-Studio/</guid>
+  <pubDate>Sun, 13 Sep 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://lsbjordao.github.io/posts/Semantic-CSS-Studio/semantic-css-studio.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Quarto-Needs: requirements engineering inside the Quarto document</title>
   <link>https://lsbjordao.github.io/posts/Quarto-Needs/</link>
@@ -507,33 +536,6 @@
   <guid>https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/</guid>
   <pubDate>Thu, 01 Mar 2018 03:00:00 GMT</pubDate>
   <media:content url="https://lsbjordao.github.io/posts/Flora-Mimosa-RJ/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>A new species of Mimosa (Leguminosae) endemic to the Brazilian Cerrado</title>
-  <link>https://lsbjordao.github.io/posts/Mimosa-osmarii/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-<p>A new narrow endemic species from the Serra do Cabral is described, <em>Mimosa osmarii</em>, that shows affinities with <em>M. paucifolia</em> var. <em>scoparia</em>, a sympatric taxon.</p>
-<p><a href="https://doi.org/10.11646/phytotaxa.312.2.6">https://doi.org/10.11646/phytotaxa.312.2.6</a></p>
-
-
-
- ]]></description>
-  <category>trichomes</category>
-  <category>mimosa</category>
-  <category>leguminosae</category>
-  <category>morphology</category>
-  <guid>https://lsbjordao.github.io/posts/Mimosa-osmarii/</guid>
-  <pubDate>Fri, 07 Jul 2017 03:00:00 GMT</pubDate>
-  <media:content url="https://lsbjordao.github.io/posts/Mimosa-osmarii/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
